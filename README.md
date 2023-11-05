@@ -1,6 +1,5 @@
 # LiveTV Android APP 
-This is a native android app developed to play ondemand Live TV for SmallAcademy. 
-You can Watch Full Tutorials at our [Youtube](https://smallacademy.co/youtube) Channel 
+This is a android app developed to play Live TV streaming using m3u links. Which you can find at [SportsLeading m3u] (https://sportsleading.online/) 
 
-## PHP Backend 
-You can download PHP Backend for this App [Here](https://github.com/bikashthapa01/livetv-streaming-php-backend)
+## API for fetching details of channels 
+You can download API Backend for this App [Here](https://github.com/usamaBIftikhar/Live-Streaming-API)
